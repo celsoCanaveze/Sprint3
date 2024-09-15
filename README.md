@@ -5,9 +5,9 @@ Este é um site da Porto Seguro onde você pode pedir assistencia mecanica para 
 ```
 
 - [x] React
-- [x] tailwind
-- [x] typescrpit
-- [x] radix
+- [x] Tailwind
+- [x] Typescrpit
+- [x] Radix
 
 ### Desenvolvido por: Tiago Ferro
 
